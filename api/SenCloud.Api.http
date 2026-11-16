@@ -1,0 +1,6 @@
+@SenCloud.Api_HostAddress = http://localhost:5196
+
+GET {{SenCloud.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
